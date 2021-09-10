@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.js": "/reacttry/static/js/main.f9c55294.chunk.js",
-    "main.js.map": "/reacttry/static/js/main.f9c55294.chunk.js.map",
+    "main.css": "/reacttry/static/css/main.b5a98cbd.chunk.css",
+    "main.js": "/reacttry/static/js/main.56be2068.chunk.js",
+    "main.js.map": "/reacttry/static/js/main.56be2068.chunk.js.map",
     "runtime-main.js": "/reacttry/static/js/runtime-main.8e825b39.js",
     "runtime-main.js.map": "/reacttry/static/js/runtime-main.8e825b39.js.map",
-    "static/js/2.7e9827f3.chunk.js": "/reacttry/static/js/2.7e9827f3.chunk.js",
-    "static/js/2.7e9827f3.chunk.js.map": "/reacttry/static/js/2.7e9827f3.chunk.js.map",
+    "static/js/2.e7ad5cc2.chunk.js": "/reacttry/static/js/2.e7ad5cc2.chunk.js",
+    "static/js/2.e7ad5cc2.chunk.js.map": "/reacttry/static/js/2.e7ad5cc2.chunk.js.map",
     "index.html": "/reacttry/index.html",
-    "static/js/2.7e9827f3.chunk.js.LICENSE.txt": "/reacttry/static/js/2.7e9827f3.chunk.js.LICENSE.txt"
+    "static/css/main.b5a98cbd.chunk.css.map": "/reacttry/static/css/main.b5a98cbd.chunk.css.map",
+    "static/js/2.e7ad5cc2.chunk.js.LICENSE.txt": "/reacttry/static/js/2.e7ad5cc2.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/reacttry/static/media/svg-1.b372e414.svg",
+    "static/media/svg-2.34622197.svg": "/reacttry/static/media/svg-2.34622197.svg",
+    "static/media/svg-4.svg": "/reacttry/static/media/svg-4.c59f71af.svg",
+    "static/media/svg-5.svg": "/reacttry/static/media/svg-5.40f12e76.svg",
+    "static/media/video.7d1ea6a9.mp4": "/reacttry/static/media/video.7d1ea6a9.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.8e825b39.js",
-    "static/js/2.7e9827f3.chunk.js",
-    "static/js/main.f9c55294.chunk.js"
+    "static/js/2.e7ad5cc2.chunk.js",
+    "static/css/main.b5a98cbd.chunk.css",
+    "static/js/main.56be2068.chunk.js"
   ]
 }
